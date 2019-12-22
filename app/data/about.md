@@ -1,43 +1,45 @@
 
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
-<br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+I am a Engineer graduate, and web developer working in netaxis it solutions pvt ltd. I like to build dynamic fast web applications by using latest technology. My biggest plus if i had interest on some thinks i will do, If i will not do means I can't sleep correctly. 
 <br><br>
 #### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+At netaxis, currently working as web developer, now searching for good job in the field of web where the company using latest new technology.
 <br><br>
 #### Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- I was born on may 7 1996, for my beautiful pairs named as king moulana and queen reyana.
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- Later my sister girl shahin was born at july 14 1998 as per the wish of my father. Because my father is working as tailor ladies secialist wher he has passion to wear new designed dress for his daughter.
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- I was lived in my grandmother home from 1yr to 3yrs, because my mother ena olungha vazhakala, adikadi she dropped me from bed and thottil, so my head will get veengidum.
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+- At 4yrs, I was joined in joy matriculation school and studied lkg and ukg.
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- At 6 yrs, I joined 1st std in ashok matriculation school studied till 5th std. On that duration i got beautiful memories and also i learn some jesus songs where i was belonged to muslim, because at daily they pray for half hrs by singing jesus songs.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+- Between Ist std to 5th std, I ate lunch from my mom by ootifying with egg as sidedish at out of my school there is a water tank under tree i ate. At that lunch time, schools from near to our school, school student will go for lunch, my school has 5th std class only, so my mom get mudivu to join near to my school which is named as kannada sangha school.
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+- At 10 yrs, I am studying 5th std, when i am returning home, kannada sangha school students make accident with me in cycle, which i was stitched near to my right eyes and got 3 stitches.
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+- And at 13yrs, Spider man hollywood film releases, so i played spiderman game in near to my home, on that i  was slipped and fell down and got 5 stitched in back of my head, that was my second stich.
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
+- And at school times between 6th to 10th i did not get pass in all subject, i will failed in tamil or social subject, so that i will get scolding and beating from my parents. 
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
+- But at 10th, my parents was thinking likewise he failed in 10th also, but that not happens, i got 83% percent in my sslc highest in endlish and tamil 95marks, my father buys diary milk chocolate and gives to all peoples in my colony.
 
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
+- At my result day, my father mudivu edutharu her after i will not beat my son, after that still now he did not beat me.
 
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
+- After that, I joined 11th in same school, and select maths with csc group and studied with careless(Because got good marks in sslc).
 
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
+- At 17, I am waiting for my HSC result, buy dreaming getting same 83% percent in hsc and become engineer, but i got just 62%, i got ashamed on that day(Ithula vera tution by providing fees of 450rs monthly).
 
-- At 19, I took my first graduate course and published my first academic paper.
+- After that i erased my engineer dream, but my mom dream is too became engineer, so she get seat from alpha engineering college from management quota by paying initial amount of rs.5000.
 
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
+- But i tried sriram enginnering college in government quota, but i got jaya engineering college in information technology department.
+
+- After joining college, i realized what is life and studied by aiming not get arrears, but masha allah i did not get arrear even in one subject also.
+
+- After that i tried job, got a web developer job which is training comes first and shortlist you will get select basis, i get trained for 5 months from the duration of Aug 2017 - Dec 2017 and got selected for the web developer job and started my careers, you can read more from here.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>

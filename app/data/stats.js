@@ -1,16 +1,31 @@
 const data = {
+  fathername: {
+    label: "Father's Name",
+    value: 'Moulana R'
+  },
+  mothername: {
+    label: "Mother's Name",
+    value: 'Reyana M'
+  },
+  dob: {
+    label: 'Date of Birth',
+    value: '07-May-1996'
+  },
   age: {
     label: 'Current age',
-    value: 0,
+    value: 23,
   },
-  countries: {
-    label: 'Countries visited',
-    value: 53,
-    link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+  relegion: {
+    label: 'Religion',
+    value: 'Muslim'
+  },
+  Nationality: {
+    label: 'Nationality',
+    value: 'Indian'
   },
   location: {
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'Chennai, Tamil Nadu',
   },
 };
 
