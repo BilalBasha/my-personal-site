@@ -1,15 +1,24 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
-  }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Jaya Enginnering College',
+    degree: 'Bachelor of Technology in Information Technology',
+    year: 2017,
+    percentage: '7.4CGPA'
   },
+  {
+    school: 'Kannada Sangha Higher Secondary School',
+    degree: 'Higher Secondary School',
+    link: 'http://www.kannadasanghaschools.org/',
+    year: 2013,
+    percentage: '62%'
+  },
+  {
+    school: 'Kannada Sangha Higher Secondary School',
+    degree: 'Secondary School Leaving Certificate',
+    link: 'http://www.kannadasanghaschools.org/',
+    year: 2011,
+    percentage: '83%'
+  }
 ];
 
 export default degrees;
