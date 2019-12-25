@@ -14,7 +14,11 @@ const Cell = ({ data }) => (
         <img src={url.resolve(BASE_PATH, data.image)} alt={data.title} />
       </a>
       <div className="description">
-        <p>{data.desc}</p>
+        <ul className="points">
+          {data.desc.map((des) => (
+            <li key={des}>{des}</li>
+          ))}
+        </ul>
       </div>
     </article>
   </div>
