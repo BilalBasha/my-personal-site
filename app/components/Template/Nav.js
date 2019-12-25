@@ -13,7 +13,7 @@ const Nav = () => (
         <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="Bilal Basha" />
       </Link>
       <header>
-        <h2>Bilal BAsha</h2>
+        <h2>Bilal Basha</h2>
         <p><a href="mailto:rockingbilal96@gmail.com">rockingbilal96@gmail.com</a></p>
       </header>
     </section>
