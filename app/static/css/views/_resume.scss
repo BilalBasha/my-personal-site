@@ -2,6 +2,15 @@
 
 #resume {
 
+	header {
+		.title {
+			div:first-child {
+				@include vendor('display', 'flex');
+				@include vendor('justify-content', 'space-between');
+			}
+		}
+	}
+
 	.link-to {
 		position: relative;
 		top: -4.5em;

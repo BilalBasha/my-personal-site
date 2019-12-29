@@ -11,7 +11,6 @@ import Projects from './views/Projects';
 import Resume from './views/Resume';
 import Stats from './views/Stats';
 import Contact from './views/Contact';
-
 import NotFound from './views/NotFound';
 
 // All of our CSS
