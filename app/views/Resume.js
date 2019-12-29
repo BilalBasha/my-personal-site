@@ -15,8 +15,6 @@ import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
 import { skills, categories } from '../data/resume/skills';
 
-console.log(skills, categories);
-
 const sections = [
   'Education',
   'Experience',
@@ -25,20 +23,39 @@ const sections = [
   // 'References',
 ];
 
+const downloadResume = (ev) => {
+  let host = location.origin;
+  host += '/my-personal-site';
+  fetch(host+'/images/download/resume.pdf').then(res => res.blob() ).then(function(blob) { var url = window.URL.createObjectURL(blob);
+            var a = document.createElement('a');
+            a.href = url;
+            a.download = "Bilal resume.pdf";
+            document.body.appendChild(a); // we need to append the element to the dom -> otherwise it will not work in firefox
+            a.click();    
+            a.remove();  
+  });
+}
+
 const Resume = () => (
   <Main>
     <Helmet title="Resume" />
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2><Link to="resume">Resume</Link></h2>
+          <div>
+            <h2><Link to="/resume">Resume</Link></h2>
+            <ul className="actions">
+              <li>
+                <a className="button" onClick={ ev => downloadResume(ev) }>download</a>
+              </li>
+            </ul>
+          </div>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-
         </div>
       </header>
       <Education data={degrees} />
@@ -46,7 +63,6 @@ const Resume = () => (
       <Skills skills={skills} categories={categories} />
       {/*<Courses data={courses} />*/}
       {/*<References />*/}
-
     </article>
   </Main>
 );
