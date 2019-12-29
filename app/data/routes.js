@@ -23,10 +23,6 @@ const data = [
   {
     path: '/contact',
     label: 'Contact',
-  },
-  {
-    path: '/upload',
-    lable: 'Upload'
   }
 ];
 
